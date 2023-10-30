@@ -1,5 +1,5 @@
-# Treegen
-HTML Canvas tree generation using Lindenmayer systems.
+# Random Pics
+Random pictures from lorem.picsum jumping around
 
 # Run with hot reloading
 run `npm run dev` 
